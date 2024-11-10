@@ -38,7 +38,7 @@ El enlace a la visualización interactiva de los clusters es el siguiente:
 
 ### Mapa de Clusters de Bucaramanga (Generado con Folium)
 El mapa interactivo con los clusters generados puede visualizarse a través del siguiente enlace:
-[Ver Mapa Interactivo de Clusters](ruta/del/archivo/prueba_clust.html)
+[Ver Mapa Interactivo de Clusters](prueba_clust.html)
 
 ## Instalación y Uso
 
